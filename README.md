@@ -1,2 +1,2 @@
 # t-sks
-for edu.
+For edu.
